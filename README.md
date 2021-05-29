@@ -4,6 +4,9 @@
 👯 I’m looking to collaborate on Open Source Platforms</br>
 📫 How to reach me: Saif_khan09@hotmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaifKhan)](https://github.com/SaaifKhan/github-readme-stats)
+
+
 
 
 <!--
