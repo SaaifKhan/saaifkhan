@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Development Using kotlin and MVVM</br>
-🌱 I’m currently learning More Advance Android Development(Rxjava2,and all) plus Doing Some Flutter Tutorials</br>
+🌱 I’m currently learning More Advance Android Development(Rxjava2,and all) plus Doing  Flutter Tutorials</br>
 👯 I’m looking to collaborate on Open Source Platforms</br>
 📫 How to reach me: Saif_khan09@hotmail.com
 
