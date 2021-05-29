@@ -3,8 +3,6 @@
 🌱 I’m currently learning More Advance Android Development(Rxjava2,and all) plus Doing  Flutter Tutorials</br>
 👯 I’m looking to collaborate on Open Source Platforms</br>
 📫 How to reach me: Saif_khan09@hotmail.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaifKhan)](https://github.com/SaaifKhan/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaifKhan&show_icons=true)
 
 
