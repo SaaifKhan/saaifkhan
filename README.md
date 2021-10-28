@@ -7,7 +7,7 @@
 📫 How to reach me: Saif_khan09@hotmail.com</br>
 </br>
 
-![](https://komarev.com/ghpvc/?SaaifKhan=SaaifKhan)
+![](https://komarev.com/ghpvc/?username=SaaifKhan)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaifKhan&show_icons=true&theme=radical)
 </br>
