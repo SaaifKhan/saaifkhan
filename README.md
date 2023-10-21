@@ -14,7 +14,7 @@
 </br>
 </br>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/SaaifKhan/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/username=SaaifKhan)](https://github.com/SaaifKhan/github-readme-stats)
 
 
 
