@@ -1,7 +1,9 @@
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://alkhidmat.org/donate)
+
 ### Hi there 👋
 🔭 I’m currently working on Android Development Using kotlin and MVVM Using CLean  Arch </br>
 🌱 I’m currently learning More Advance Android Development plus Flutter </br>
-🌱 I’m currently learning stack Flutter for mobile app development </br>
+🌱 I’m currently learning jetpack Compose </br>
 
 👯 I’m looking to collaborate on Open Source Platforms</br>
 📫 How to reach me: Saif_khan09@hotmail.com</br>
@@ -11,9 +13,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaifKhan&show_icons=true&theme=radical)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaifKhan&layout=compact)](https://github.com/SaaifKhan/github-readme-stats)
 
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/SaaifKhan/github-readme-stats)
 
 
 
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaifKhan&layout=compact)](https://github.github.com/SaaifKhan/github-readme-stats)
 
 
 
