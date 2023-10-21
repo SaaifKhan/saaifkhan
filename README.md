@@ -14,7 +14,6 @@
 </br>
 </br>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/username=SaaifKhan)](https://github.com/SaaifKhan/github-readme-stats)
 
 
 
@@ -37,4 +36,5 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=SaaifKhan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaifKhan&layout=donut-vertical)]
+
